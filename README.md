@@ -1,35 +1,41 @@
-# ReadME-Generator
 
-## Description
+  # README-Generator
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An application to generate README files automatically through Javascript and node.js
+  ## Description
+  An application which automatically generates README files for porfessional projects
+  
+  
+  ## Table of Contents 
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+ 
+  ## Installation
+  
+  In the process off creating this app javascript and node.js were used
+  
+  ## Usage
+ 
+  To generate a README file for professional purposes
+ 
+ 
+   ## Tests
+  No tests were performed in the making of this application
+  
+  ## License 
+  MIT
+  (https://opensource.org/licenses/MIT)
 
-## Table of Contents
+  ## Contributors
+  Soheab Khan
+  
+  ## Questions
+  If you have any questions feel free to reach out to me at:
+  <br>
+  [skhangns@gmail.com](mailto:skhangns@gmail.com)
+  <br>
+  [GitHub](https://github.com/skhangns)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
-## Installation
-
-Javascript also with node.js
-
-## Usage
-
-An app which prompts the user questions then in turn will produce a readme file based on user input
-
-## Tests
-
-no tests can be performed
-
-## Contributors
-
-Soheab Khan
-
-## Questions
-
-If you have any questions feel free to reach out to me at:
-<br>
-[skhangns@gmail.com](mailto:skhangns@gmail.com)
-<br>
-[GitHub](https://github.com/skhangns)

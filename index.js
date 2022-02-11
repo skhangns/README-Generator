@@ -34,7 +34,7 @@ const questions = [
         type:"list",
         name: "license",
         message: "What license was used in your work?",
-        choices: ["MIT license", "Mozilla Public License 2.0", "GNU General Public License (GPL)", "Apache License 2.0"]
+        choices: ["MIT", "Mozilla", "GNU", "Apache"]
     },
     {
         type: 'input',
