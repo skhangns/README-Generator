@@ -34,7 +34,7 @@ const questions = [
         type:"list",
         name: "license",
         message: "What license was used in your work?",
-        choices: ["MIT", "Mozilla", "GPL", "Apache"]
+        choices: ["MIT license", "Mozilla Public License 2.0", "GNU General Public License (GPL)", "Apache License 2.0"]
     },
     {
         type: 'input',
@@ -56,7 +56,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
-        err ? console.log(err) : console.log('Successfully created README.md')
+        err ? console.log(err) : console.log('Successfully generated README file')
     )}
 
 // TODO: Create a function to initialize app
