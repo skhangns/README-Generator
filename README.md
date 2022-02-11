@@ -14,7 +14,7 @@
  
   ## Installation
   
-  In the process off creating this app javascript and node.js were used
+  Installed via javascript and node.js
   
   ## Usage
  
@@ -22,7 +22,7 @@
  
  
    ## Tests
-  No tests were performed in the making of this application
+  no tests have been performed
   
   ## License 
   MIT
