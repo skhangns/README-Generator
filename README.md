@@ -1,10 +1,10 @@
 
-  # README-Generator
+  # read me gen
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  An application which automatically generates README files for porfessional projects
+  to generate readme files
   
   
   ## Table of Contents 
@@ -14,22 +14,22 @@
  
   ## Installation
   
-  Installed via javascript and node.js
+  node js 
   
   ## Usage
  
-  To generate a README file for professional purposes
+  to automatically generate professional read me for projects
  
  
    ## Tests
-  no tests have been performed
+  none
   
   ## License 
   MIT
   (https://opensource.org/licenses/MIT)
 
   ## Contributors
-  Soheab Khan
+  soheab khan
   
   ## Questions
   If you have any questions feel free to reach out to me at:
